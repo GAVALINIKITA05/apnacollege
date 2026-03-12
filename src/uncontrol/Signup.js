@@ -29,7 +29,9 @@ export default function Signup() {
 
   return (
     <>
+    
       <form align="center" onSubmit={saveuser}>
+        <h1>WELCOME</h1>
         <table>
           <tbody>
             <tr>
